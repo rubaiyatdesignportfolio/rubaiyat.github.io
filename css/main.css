@@ -460,7 +460,7 @@ button:focus {
   top: 0px;
   left: 0px;
   background: #000000;
-  opacity: 0.6;
+  opacity: 0;
 }
 
 .main_banner .overlay, .subscribe_banner .overlay, .fv .overlay {
